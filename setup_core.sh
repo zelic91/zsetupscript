@@ -33,3 +33,6 @@ check_and_install bower `npm install -g bower`
 
 # Postgres
 check_and_install posgres `brew install postgres`
+
+# CocoaPods
+check_and_install pod `sudo gem install cocoapods`
