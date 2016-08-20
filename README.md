@@ -10,3 +10,17 @@ Everytime I fresh install OSX, I have to waste a lot of time on installing stuff
 2. Make usre the file is executable by running `chmod +x setup_core.sh`.
 3. `./setup_core.sh`.
 4. Feel fresh.
+
+## Included tools?
+
+- [x] XCode Command Line Tools
+- [x] Homebrew
+- [x] Git
+- [x] RVM
+- [x] Ruby on Rails
+- [x] NodeJS
+- [x] Bower
+- [x] Postgres
+- [x] CocoaPods
+- [x] React Native
+
