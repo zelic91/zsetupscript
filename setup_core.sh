@@ -23,7 +23,7 @@ check_and_install rvm `\curl -L https://get.rvm.io | bash -s stable`
 
 # Ruby on Rails
 rvm use ruby --install --default
-gem install rails --no-ri --no-rdoc
+sudo gem install rails --no-ri --no-rdoc
 
 # NodeJS
 check_and_install node `brew install node`
