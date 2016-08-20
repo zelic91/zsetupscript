@@ -36,3 +36,6 @@ check_and_install posgres `brew install postgres`
 
 # CocoaPods
 check_and_install pod `sudo gem install cocoapods`
+
+# React Native
+check_and_install react-native `sudo npm install -g react-native-cli`
