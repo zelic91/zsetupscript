@@ -9,9 +9,8 @@ Everytime I fresh install OSX, I have to waste a lot of time on installing stuff
 ## How?
 
 1. Save the file for your platform:
-  a. [MacOS](https://raw.githubusercontent.com/zelic91/zsetupscript/master/setup_core.sh) as setup_script.sh (or whatever you want it to be)
-
-  b. [Ubuntu](https://raw.githubusercontent.com/zelic91/zsetupscript/master/ubuntu_setup.sh) as setup_script.sh (or whatever you want it to be)
+    1. [MacOS](https://raw.githubusercontent.com/zelic91/zsetupscript/master/setup_core.sh) as setup_script.sh (or whatever you want it to be)
+    2. [Ubuntu](https://raw.githubusercontent.com/zelic91/zsetupscript/master/ubuntu_setup.sh) as setup_script.sh (or whatever you want it to be)
 2. Make usre the file is executable by running `chmod +x setup_core.sh`.
 3. `./setup_core.sh`.
 4. Feel fresh.
